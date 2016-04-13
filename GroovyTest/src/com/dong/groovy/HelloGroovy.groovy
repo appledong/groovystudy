@@ -9,10 +9,12 @@ package com.dong.groovy
  * 4. 语句之间可以没有分号隔离
  */
 class HelloGroovy {
+	protected def printlnself(){
+		println "hello groovy"
+	}
 
 	static main(args) {
 		println "it is my first groovy class"
 		println "hello groovy"
 	}
-
 }
