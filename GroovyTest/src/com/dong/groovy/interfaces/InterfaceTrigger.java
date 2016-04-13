@@ -1,5 +1,10 @@
 package com.dong.groovy.interfaces;
 
+/**
+ * 接口触发器
+ * @author dong
+ *
+ */
 public class InterfaceTrigger {
 
 	private FirstInterface firstInterface;
