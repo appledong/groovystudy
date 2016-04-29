@@ -8,10 +8,14 @@ class StringOverSymbol {
 		for(char aha = 'a';aha<'c';aha++){
 			println aha
 		}
-		
+
 		//++操作符等于String类中的next() api
 		for(def ah='a';ah<'c';ah++){
 			println ah
+		}
+
+		for(char ahjava ='a';ahjava<'c';ahjava++ ){
+			println ahjava
 		}
 
 		/**
