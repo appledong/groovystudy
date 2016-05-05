@@ -9,6 +9,8 @@ package com.dong.groovy.closure
  * 3. Java抽象的是逻辑，而groovy的闭包抽象的是行为的部分相似地方，确切的说抽象的是部分行为
  * 4. groovy中的闭包多是在重构的时候使用，在开发中不一定能够抽象出来，类似于mvp模式
  * 5. 闭包可以声明为变量，用来复用
+ * 6. 闭包可以被用来更好的设计逻辑和优化代码逻辑，了解groovy是为了了解gradle和Android的解析，此处咱不细究
+ * 7. groovy中的闭包作用可以看作是java中的接口，而且还是不需要提前定义的接口，在需要实现的时候可以直接使用的
  */
 class ComputeGroovy {
 
